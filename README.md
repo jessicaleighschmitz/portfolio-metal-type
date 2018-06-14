@@ -1,14 +1,11 @@
-# JS Template Repo for Epicodus
+# Portfolio in Metal Type Design
 
-## By Bobby Martin
+## By Jessica Schmitz
 
 # Description
-This is a template directory to make things go quicker in the morning.
+This is a version of my portfolio in the metal type design, utilizing CSS Grid.
 
-# Specifications
-* The program will hold the necessary files and folders for easy cloning
-  * Input Example: **Example**
-  * Output Example: **Example**
+
 
 # Setup Requirements
 * Clone this repository
@@ -22,6 +19,7 @@ This is a template directory to make things go quicker in the morning.
 # Technologies
 * HTML
 * CSS
+* CSS Grid
 * JavaScript
 * Webpack
 * Jasmine
