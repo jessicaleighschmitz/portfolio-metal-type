@@ -1,6 +1,7 @@
 body{
   margin: 0;
   box-sizing: border-box;
+  background: #f6f3ea;
 }
 html{
   font-family: 'Futura W01', helvetica, sans-serif;
